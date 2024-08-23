@@ -69,6 +69,7 @@ For support, inquiries, or feedback, please contact:
 - **Email:** shahilahmed696@gmail.com
 - **GitHub:** github.com/shahil696
 - **Twitter:** @shahil_ahm61447
+
 Thank you for using the Charity Campaign Smart Contract. Your contributions help support and advance charitable causes!
 
 ---
